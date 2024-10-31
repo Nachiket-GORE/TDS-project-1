@@ -51,12 +51,3 @@ Data is saved in two CSV files:
 | created_at      | Repository creation date                      |
 | updated_at      | Last updated date of the repository           |
 
-## Contributing
-
-Feel free to contribute by submitting a pull request or opening an issue for any suggestions or bugs.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-
