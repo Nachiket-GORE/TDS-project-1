@@ -51,3 +51,6 @@ Data is saved in two CSV files:
 | created_at      | Repository creation date                      |
 | updated_at      | Last updated date of the repository           |
 
+## Code
+- Use Google Colab.
+- Find Code for performing Analysis in `TDS-Project-Analysis.ipynb`.
